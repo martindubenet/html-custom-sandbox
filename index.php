@@ -13,17 +13,13 @@
 
 	<ul>
 		<li><a href="email-XHTML.html">email-XHTML.html</a></li>
-		<!-- 
-		<li><a href="type-html4.html">type-html4.html</a></li>
-		-->
-		<li><a href="type-html5.html">type-html5.html</a></li>
+		<li><a href="type-html4.shtml">type-html4.shtml</a></li>
+		<li><a href="type-html5.shtml">type-html5.shtml</a></li>
 		<li><a href="type-html5.php">type-html5.php</a></li>
 		<li><a href="type-html5-bootstrap3.php">type-html5-bootstrap3.php</a></li>
 		<li><a href="type-html5-bootstrap4.php">type-html5-bootstrap4.php</a></li>
-		<!-- 
-		<li><a href="type-xhtml-strict.html">type-xhtml-strict.html</a></li>
-		<li><a href="type-xhtml-trans.html">type-xhtml-trans.html</a></li>
-		-->
+		<li><a href="type-xhtml-strict.shtml">type-xhtml-strict.shtml</a></li>
+		<li><a href="type-xhtml-trans.shtml">type-xhtml-trans.shtml</a></li>
 	</ul>
 
 </body>

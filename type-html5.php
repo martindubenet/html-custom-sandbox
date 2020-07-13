@@ -21,11 +21,11 @@
 	<link rel="stylesheet" media="screen" href="<?= $siteUi; ?>css/screen/4-modules.css" />
 	<link rel="stylesheet" media="screen" href="<?= $siteUi; ?>css/screen/5-grid.css" />
 	<link rel="stylesheet" media="all" href="<?= $siteUi; ?>css/fontfaces.css" />
-	<link rel="stylesheet" media="screen" href="<?= $siteUi; ?>css/screen/style-1.css" rel="stylesheet" title="Default style" />
-	<link rel="stylesheet" media="screen" href="<?= $siteUi; ?>css/screen/style-2.css" rel="alternate stylesheet" />
+	<link rel="stylesheet" media="screen" href="<?= $siteUi; ?>css/screen/style-1.css" title="Default style" />
+	<link rel="alternate stylesheet" media="screen" href="<?= $siteUi; ?>css/screen/style-2.css" />
 	<!--[if lte IE 9]><link rel="stylesheet" media="all" href="<?= $siteUi; ?>css/if-ie9.css" /><![endif]-->
-	<link media="print" type="text/css" href="<?= $siteUi; ?>css/print/0-reset-base.css" />
-	<link media="print" type="text/css" href="<?= $siteUi; ?>css/print/1-modules-grid.css" />
+	 <link rel="stylesheet" media="print" type="text/css" href="<?= $siteUi; ?>css/print/0-reset-base.css" />
+	 <link rel="stylesheet" media="print" type="text/css" href="<?= $siteUi; ?>css/print/1-modules-grid.css" />
 	<link rel="shortcut icon" type="image/x-icon" href="<?= $siteUi; ?>img/logo/favicon.ico" />
 	<link rel="icon" type="image/png" href="<?= $siteUi; ?>img/logo/favicon.png" />
 	<style type="text/css">
