@@ -12,7 +12,7 @@
 	<hr />
 
 	<ul>
-		<li><a href="email-html3.html">email-html3.html</a></li>
+		<li><a href="email-XHTML.html">email-XHTML.html</a></li>
 		<!-- 
 		<li><a href="type-html4.html">type-html4.html</a></li>
 		-->
